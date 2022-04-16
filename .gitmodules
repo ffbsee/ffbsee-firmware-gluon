@@ -1,0 +1,7 @@
+[submodule "site"]
+	path = site
+	url = git@github.com:ffbsee/ffbsee-site.git
+[submodule "gluon"]
+	path = gluon
+	url = git@github.com:DEvil0000/gluon.git
+        branch = v2021.1.1_1
